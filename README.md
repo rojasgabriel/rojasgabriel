@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rojasgabriel
+- 👋 Hi, I’m @rojasgabriel, grad student at UCLA
 - 👀 I’m interested in social neuroscience
 - 🌱 I’m currently learning python and machine learning
 - 💞️ I’m looking to collaborate on anything cool that pops up
