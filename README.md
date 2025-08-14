@@ -1,3 +1,1 @@
-### Hey
-
-My name is Gabriel Rojas-Bowe and I'm a Neuroscience Ph.D. student at UCLA in Dr. Anne Churchland's lab.
+Neuroscience Ph.D. Candidate at UCLA in Dr. Anne Churchland's lab studying the mixing of sensory and behavioral information in mouse visual cortex.
