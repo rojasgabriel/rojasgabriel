@@ -1,1 +1,3 @@
-Neuroscience Ph.D. Candidate at UCLA in Dr. Anne Churchland's lab studying the mixing of sensory and behavioral information in mouse visual cortex.
+Hey there. My name is Gabriel and I'm a Neuroscience Ph.D. Candidate at UCLA in Dr. Anne Churchland's lab. I'm studying the mixing of sensory and behavioral information in mouse primary visual cortex (V1) during freely-moving decision making. I use chronically implanted Neuropixels to record electrophysiology data from V1 while I track their movements as they perform the task. To analyze these data, I'm building GLMs to predict spiking activity of V1 units from task and behavioral information, as well as latent variable models models to infer shared gain fluctuations across neural populations.
+
+You can reach me at grojasbowe@g.ucla.edu.
